@@ -11,27 +11,27 @@ Reconhecer sempre.
 Nem todos os prêmios são merecidos e nem todos que merecem ganham prêmios. Então vale mesmo a pena, premiar?
 
 1) Quantas vezes Natalie Portman foi indicada ao Oscar?
-<code>Código: SELECT NAME, winner FROM movies WHERE NAME LIKE "%Natalie Portma%"
+<code>Código: SELECT NAME, winner FROM movies WHERE NAME LIKE "%Natalie Portma%"</code>
 
-Resposta: Ela foi indicada 3 vezes ao Oscar</code>
+<code>Resposta: Ela foi indicada 3 vezes ao Oscar</code>
 
 
 2) Quantos Oscars Natalie Portman ganhou?
-Código: SELECT NAME, winner FROM movies WHERE NAME LIKE "%Natalie Portma%"
+<code>Código: SELECT NAME, winner FROM movies WHERE NAME LIKE "%Natalie Portma%"</code>
 
-Resposta: Ela venceu apenas 1 vez o Oscar
+<code>Resposta: Ela venceu apenas 1 vez o Oscar</code>
 
 
 3) Amy Adams já ganhou algum Oscar?
-Código: SELECT NAME, winner FROM movies WHERE name LIKE "%Amy Adams%";
+<code>Código: SELECT NAME, winner FROM movies WHERE name LIKE "%Amy Adams%";</code>
 
-Resposta: Ela Nunca ganhou o Oscar
+<code>Resposta: Ela Nunca ganhou o Oscar</code>
 
 
 4) A série de filmes Toy Story ganhou um Oscar em quais anos?
-Código: SELECT film, winner, year_ceremony FROM movies WHERE film LIKE "%Toy Story%";
+<code>Código: SELECT film, winner, year_ceremony FROM movies WHERE film LIKE "%Toy Story%";</code>
 
-Resposta: 2011 e 2020
+<code>Resposta: 2011 e 2020</code>
 
 
 5) Quem tem mais Oscars: a categoria "Melhor Ator" ou "Melhor Filme"?

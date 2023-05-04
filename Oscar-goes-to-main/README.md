@@ -1,6 +1,6 @@
-![imagem do titulo ](https://user-images.githubusercontent.com/125400490/236323581-df8a7b84-aa71-4343-8af4-17ce35f63d5d.png)
 
-
+<img src = "https://user-images.githubusercontent.com/125400490/236323581-df8a7b84-aa71-4343-8af4-17ce35f63d5d.png" height= "300" widht= "300" >
+    
 
 
 <h1 align="center">Oscar-goes-to... ?</h1>

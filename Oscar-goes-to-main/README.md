@@ -1,4 +1,4 @@
-Oscar-goes-to... ?
+<h1 align="center">Oscar-goes-to... ?</h1>
 Muito bem, Pessoal...
 
 Hoje vamos trabalhar com o Oscar. A ideia de premiar ou ser premiado é para reconhecer:

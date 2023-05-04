@@ -11,9 +11,9 @@ Reconhecer sempre.
 Nem todos os prêmios são merecidos e nem todos que merecem ganham prêmios. Então vale mesmo a pena, premiar?
 
 1) Quantas vezes Natalie Portman foi indicada ao Oscar?
-Código: SELECT NAME, winner FROM movies WHERE NAME LIKE "%Natalie Portma%"
+<code>Código: SELECT NAME, winner FROM movies WHERE NAME LIKE "%Natalie Portma%"
 
-Resposta: Ela foi indicada 3 vezes ao Oscar
+Resposta: Ela foi indicada 3 vezes ao Oscar</code>
 
 
 2) Quantos Oscars Natalie Portman ganhou?
